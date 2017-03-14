@@ -4,9 +4,9 @@
 
 ```
 iaa 
-  ├── iaa_model.py  用Keras构建model并训练\n
-  ├── train   存放训练图片\n
-  └── validation  存放测试图片\n
+  ├── iaa_model.py  用Keras构建model并训练
+  ├── train   存放训练图片
+  └── validation  存放测试图片
 ```
 
 # ImageSearch 以图搜图工程
